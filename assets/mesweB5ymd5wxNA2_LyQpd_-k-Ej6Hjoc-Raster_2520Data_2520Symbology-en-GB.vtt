@@ -1,0 +1,373 @@
+WEBVTT
+
+3a6e749a-6139-46ae-9900-72d6cb0851fd-0
+00:00:01.660 --> 00:00:04.720
+So now we know how to look at
+the symbology for our vector
+
+3a6e749a-6139-46ae-9900-72d6cb0851fd-1
+00:00:04.720 --> 00:00:07.470
+data layers and how to change
+these to what we want.
+
+5fcf9f44-81a6-48f0-b4b7-e43f24932a62-0
+00:00:08.170 --> 00:00:11.319
+Will now take a look at the
+raster data layers. So we're
+
+5fcf9f44-81a6-48f0-b4b7-e43f24932a62-1
+00:00:11.319 --> 00:00:13.750
+going to toggle off the vector
+data layers.
+
+e16531f6-4b7c-4d6c-ab99-9f208aa42222-0
+00:00:14.800 --> 00:00:18.006
+I'm going to take a look at the
+rasters and we can tell that
+
+e16531f6-4b7c-4d6c-ab99-9f208aa42222-1
+00:00:18.006 --> 00:00:20.530
+these are rasters because if we
+zoom in on them
+
+72acaf43-5cac-43bd-9545-bf68ab805b89-0
+00:00:21.850 --> 00:00:24.815
+we can see that they're layers
+made-up of lots of different
+
+72acaf43-5cac-43bd-9545-bf68ab805b89-1
+00:00:24.815 --> 00:00:26.200
+pixels of different colours.
+
+9b14d887-e466-478b-b741-9e4c3e0774fa-0
+00:00:29.360 --> 00:00:32.160
+It's the same for the elevation
+raster layer as well,
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-0
+00:00:36.430 --> 00:00:40.538
+and so we'll start off taking a
+look at the symbology for this
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-1
+00:00:40.538 --> 00:00:44.451
+elevation layer. At the moment
+we can see it looks a little
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-2
+00:00:44.451 --> 00:00:48.299
+crazy and the reason why is
+because when we put this layer
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-3
+00:00:48.299 --> 00:00:51.299
+into Arcgis Pro it's
+automatically given that
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-4
+00:00:51.299 --> 00:00:55.277
+elevation layer unique values
+for each elevation and so it's
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-5
+00:00:55.277 --> 00:00:59.386
+given us a coloured box for 380
+metres for example, and then a
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-6
+00:00:59.386 --> 00:01:02.777
+coloured box for 381 metres
+going up to the highest
+
+080ec9b9-305c-4fd9-a88f-575a14fd9ebc-7
+00:01:02.777 --> 00:01:03.430
+elevation.
+
+c7ee4368-b5ef-47bb-ab05-3b19b0e411ec-0
+00:01:04.130 --> 00:01:07.287
+This isn't showing elevation
+very well and we can't tell from
+
+c7ee4368-b5ef-47bb-ab05-3b19b0e411ec-1
+00:01:07.287 --> 00:01:10.547
+looking at this layer what it's
+trying to show us. And so we're
+
+c7ee4368-b5ef-47bb-ab05-3b19b0e411ec-2
+00:01:10.547 --> 00:01:12.330
+going to change this in
+symbology.
+
+585085e0-79fe-4457-976f-f3a9867cf974-0
+00:01:14.690 --> 00:01:17.951
+But first of all, we want to
+zoom back out so we can see the
+
+585085e0-79fe-4457-976f-f3a9867cf974-1
+00:01:17.951 --> 00:01:21.480
+full extent of the layer. And so
+to do that, we're going to right
+
+585085e0-79fe-4457-976f-f3a9867cf974-2
+00:01:21.480 --> 00:01:22.710
+click on our data layer
+
+967f5593-c76b-4c58-8630-0317207c22bd-0
+00:01:23.650 --> 00:01:25.860
+and then click on zoom to layer.
+
+d18dd709-94ae-4af5-b969-901161fcc3cd-0
+00:01:29.480 --> 00:01:32.943
+OK, now let's take a look at
+changing the symbology for this
+
+d18dd709-94ae-4af5-b969-901161fcc3cd-1
+00:01:32.943 --> 00:01:36.576
+data layer. And so we're going
+to right click and then click on
+
+d18dd709-94ae-4af5-b969-901161fcc3cd-2
+00:01:36.576 --> 00:01:39.870
+symbology like we did for the
+vector data layers as well.
+
+0f410216-f3c3-4750-837f-32740ee46062-0
+00:01:43.850 --> 00:01:47.327
+So what we're going to change is
+this box here where it says
+
+0f410216-f3c3-4750-837f-32740ee46062-1
+00:01:47.327 --> 00:01:50.805
+unique values. We want to change
+this as these unique values
+
+0f410216-f3c3-4750-837f-32740ee46062-2
+00:01:50.805 --> 00:01:53.826
+aren't representing our
+continuous raster layer very
+
+0f410216-f3c3-4750-837f-32740ee46062-3
+00:01:53.826 --> 00:01:56.619
+well. So we're going to go on
+the drop down box.
+
+4a2e3a9d-dd73-4db1-b8a4-10fa7e52ce82-0
+00:01:57.560 --> 00:01:59.930
+And we are going to choose
+stretch instead.
+
+8757d2d3-f660-4992-a792-56491873e654-0
+00:02:03.430 --> 00:02:07.686
+And if we look in our contents
+now, we can see that this has
+
+8757d2d3-f660-4992-a792-56491873e654-1
+00:02:07.686 --> 00:02:12.081
+changed the symbology so that
+the pixels are now on a scale of
+
+8757d2d3-f660-4992-a792-56491873e654-2
+00:02:12.081 --> 00:02:15.361
+colour, where black is
+representing the lowest
+
+8757d2d3-f660-4992-a792-56491873e654-3
+00:02:15.361 --> 00:02:19.198
+elevation and white is
+representing 1386 metres. So we
+
+8757d2d3-f660-4992-a792-56491873e654-4
+00:02:19.198 --> 00:02:23.385
+can see that we've got a layer
+here that's representing our
+
+8757d2d3-f660-4992-a792-56491873e654-5
+00:02:23.385 --> 00:02:24.990
+elevation a lot better.
+
+9f49ad34-a728-4811-b84f-55d64f134503-0
+00:02:28.260 --> 00:02:31.551
+We can change the symbology of
+this layer even further by
+
+9f49ad34-a728-4811-b84f-55d64f134503-1
+00:02:31.551 --> 00:02:33.310
+changing the colour scheme here
+
+2417be3d-b190-412c-bc3e-f951187165f9-0
+00:02:34.380 --> 00:02:36.300
+And so if we click on this box
+
+15cb04cc-7260-44b1-a286-d8665747744f-0
+00:02:38.510 --> 00:02:42.556
+we can see that it's loaded up
+with some pre-made colour
+
+15cb04cc-7260-44b1-a286-d8665747744f-1
+00:02:42.556 --> 00:02:44.260
+schemes from Arcgis Pro.
+
+c17e90ff-681f-4a3b-abf2-5e2ac05fc9c7-0
+00:02:45.310 --> 00:02:48.125
+And so you can have a scroll
+through these and you can also
+
+c17e90ff-681f-4a3b-abf2-5e2ac05fc9c7-1
+00:02:48.125 --> 00:02:50.660
+hover your mouse over them to
+see what they're named.
+
+1bed8335-9b38-466b-b631-366707e4e62e-0
+00:02:51.760 --> 00:02:54.771
+If we scroll down we can find
+some that have been made
+
+1bed8335-9b38-466b-b631-366707e4e62e-1
+00:02:54.771 --> 00:02:56.250
+specifically for elevation.
+
+e62bd36d-6b00-4ada-a09d-9c8b69e0c052-0
+00:02:57.410 --> 00:03:00.170
+So we're going to choose
+elevation #4
+
+b681126a-f435-43f1-b3c4-c9fca11d7d58-0
+00:03:05.110 --> 00:03:08.873
+and now the symbology of this
+layer is representing elevation
+
+b681126a-f435-43f1-b3c4-c9fca11d7d58-1
+00:03:08.873 --> 00:03:12.515
+much better. So let's take a
+look at the other raster, land
+
+b681126a-f435-43f1-b3c4-c9fca11d7d58-2
+00:03:12.515 --> 00:03:12.880
+cover.
+
+37ca6d4e-2ff8-4804-ac58-2da0a7759b94-0
+00:03:20.460 --> 00:03:24.922
+So this raster is discrete, and
+that's because we've got pixels
+
+37ca6d4e-2ff8-4804-ac58-2da0a7759b94-1
+00:03:24.922 --> 00:03:29.455
+of colours that are representing
+a distinct category. So you can
+
+37ca6d4e-2ff8-4804-ac58-2da0a7759b94-2
+00:03:29.455 --> 00:03:33.570
+see on the left that we've got
+10 different coloured boxes
+
+16a1b170-ccb9-4f00-953e-88539c527533-0
+00:03:34.230 --> 00:03:37.600
+and these are all representing a
+different type of land cover.
+
+066d67c2-6607-47d9-bfd6-dbcd9f8c5ff7-0
+00:03:39.150 --> 00:03:42.450
+So now we'll take a look at the
+symbology of this layer, right
+
+066d67c2-6607-47d9-bfd6-dbcd9f8c5ff7-1
+00:03:42.450 --> 00:03:45.645
+click and click on symbology
+again to get the pane come back
+
+066d67c2-6607-47d9-bfd6-dbcd9f8c5ff7-2
+00:03:45.645 --> 00:03:45.750
+up
+
+32739a82-f4f4-4f6a-9645-0f745364306a-0
+00:03:47.280 --> 00:03:50.392
+and where it says Unique values
+we're going to leave this how it
+
+32739a82-f4f4-4f6a-9645-0f745364306a-1
+00:03:50.392 --> 00:03:53.170
+is because this is representing
+our discrete raster well,
+
+5bcc7a8e-8420-4834-9662-0fee68c9a34a-0
+00:03:54.170 --> 00:03:57.332
+but what we're going to take a
+look at is each of the coloured
+
+5bcc7a8e-8420-4834-9662-0fee68c9a34a-1
+00:03:57.332 --> 00:04:00.494
+boxes and we're going to have a
+go at changing the colours and
+
+5bcc7a8e-8420-4834-9662-0fee68c9a34a-2
+00:04:00.494 --> 00:04:01.800
+also the label of the box.
+
+b463e67d-abfb-4576-9c9b-2fdba2aaf13b-0
+00:04:02.690 --> 00:04:06.546
+So for the top row here where it
+has a value of 0, this is
+
+b463e67d-abfb-4576-9c9b-2fdba2aaf13b-1
+00:04:06.546 --> 00:04:08.900
+representing where there's no
+data.
+
+e86263e5-3173-4ee4-a2a5-c8a9bdc9f318-0
+00:04:09.620 --> 00:04:12.940
+So for the colour we can just
+change this to have no colour
+
+7ff5bd62-7c42-460f-8f3c-e9133cbe0e77-0
+00:04:13.700 --> 00:04:14.710
+by going here
+
+fd09f3f1-1217-4db2-900a-b7da0e5e48a4-0
+00:04:18.040 --> 00:04:21.175
+and now if we take a look in the
+contents we can see that the
+
+fd09f3f1-1217-4db2-900a-b7da0e5e48a4-1
+00:04:21.175 --> 00:04:23.400
+coloured box has changed to have
+no colour.
+
+26f013db-f1f3-4480-96d6-bdd4b47921b6-0
+00:04:24.070 --> 00:04:27.964
+And now we're going to change
+the label just by clicking twice
+
+26f013db-f1f3-4480-96d6-bdd4b47921b6-1
+00:04:27.964 --> 00:04:31.612
+in the box that we want to
+change, and we're going to type
+
+26f013db-f1f3-4480-96d6-bdd4b47921b6-2
+00:04:31.612 --> 00:04:33.900
+in no data and hit the enter
+button.
+
+a1612068-7963-48e1-be62-9f08245ef442-0
+00:04:35.640 --> 00:04:39.008
+And now if you look in the
+contents again, we can see that
+
+a1612068-7963-48e1-be62-9f08245ef442-1
+00:04:39.008 --> 00:04:42.320
+we've had our label come up
+showing that where there's no
+
+a1612068-7963-48e1-be62-9f08245ef442-2
+00:04:42.320 --> 00:04:45.290
+colour it means that there's no
+data on land cover.
+
+8658ebe4-b0ad-4802-a9f3-891875de5c09-0
+00:04:46.360 --> 00:04:48.718
+Now have a go at changing the
+rest of yourself. The
+
+8658ebe4-b0ad-4802-a9f3-891875de5c09-1
+00:04:48.718 --> 00:04:50.850
+information you need will be
+below this video.

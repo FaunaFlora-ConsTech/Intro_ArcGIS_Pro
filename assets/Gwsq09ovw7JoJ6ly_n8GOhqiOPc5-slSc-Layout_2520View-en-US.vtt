@@ -1,0 +1,562 @@
+WEBVTT
+
+90c45a90-d0d5-4dba-b8e6-dfbe71974664-0
+00:00:01.720 --> 00:00:06.081
+Hopefully now you've managed to
+change the symbology of the land
+
+90c45a90-d0d5-4dba-b8e6-dfbe71974664-1
+00:00:06.081 --> 00:00:09.704
+cover raster and it looks
+something a little bit like
+
+90c45a90-d0d5-4dba-b8e6-dfbe71974664-2
+00:00:09.704 --> 00:00:10.040
+this.
+
+6875533d-53d7-469c-9ca8-cdf50c450f39-0
+00:00:10.240 --> 00:00:14.156
+So we can see in our contents
+pane we have the boxes of
+
+6875533d-53d7-469c-9ca8-cdf50c450f39-1
+00:00:14.156 --> 00:00:18.352
+different colours and we've got
+the labels next to each box
+
+6875533d-53d7-469c-9ca8-cdf50c450f39-2
+00:00:18.352 --> 00:00:21.080
+telling us what land cover type
+it is.
+
+c9fa2da3-2250-47dd-a6d1-ff412270ac43-0
+00:00:22.280 --> 00:00:26.160
+So now let's go ahead and add
+the vector data layers on top.
+
+b244d555-d5b9-439d-8a94-a4c1a65889eb-0
+00:00:28.280 --> 00:00:31.305
+Our map is starting to take
+shape here, so let's get it
+
+b244d555-d5b9-439d-8a94-a4c1a65889eb-1
+00:00:31.305 --> 00:00:32.440
+ready to be exported.
+
+068b80e9-2a4d-4ea0-a399-e1bc5b4bd226-0
+00:00:32.840 --> 00:00:36.095
+So when you're working on a
+project in Arcgis Pro and you
+
+068b80e9-2a4d-4ea0-a399-e1bc5b4bd226-1
+00:00:36.095 --> 00:00:39.182
+want to get a map ready to
+export or print, we need to
+
+068b80e9-2a4d-4ea0-a399-e1bc5b4bd226-2
+00:00:39.182 --> 00:00:40.080
+create a layout.
+
+ff55e032-a119-47ae-ab24-eee926fb7ddd-0
+00:00:40.480 --> 00:00:50.450
+So to do this you want to go
+into the Insert tab and click on
+
+ff55e032-a119-47ae-ab24-eee926fb7ddd-1
+00:00:50.450 --> 00:00:52.220
+New Layout.
+
+aae07c00-2183-4b4c-b188-28a3737693de-0
+00:00:55.720 --> 00:01:02.780
+This is going to bring up some
+page size options and so we're
+
+aae07c00-2183-4b4c-b188-28a3737693de-1
+00:01:02.780 --> 00:01:09.954
+going to go with A4 portrait and
+now we have our blank page to
+
+aae07c00-2183-4b4c-b188-28a3737693de-2
+00:01:09.954 --> 00:01:11.890
+add our map onto.
+
+0d2ae723-5c95-442a-b501-2013e41844c4-0
+00:01:12.050 --> 00:01:16.665
+So to add our map we want to go
+into insert and then click on
+
+0d2ae723-5c95-442a-b501-2013e41844c4-1
+00:01:16.665 --> 00:01:17.410
+Map frame.
+
+dd4b3358-7c21-47e3-af43-e5b6406e7583-0
+00:01:18.290 --> 00:01:23.346
+Now we can choose the map that
+we want and this will give our
+
+dd4b3358-7c21-47e3-af43-e5b6406e7583-1
+00:01:23.346 --> 00:01:26.690
+mouse the tool to draw it onto
+our page.
+
+8e00fd69-1b11-4145-8cb3-7b476055b73d-0
+00:01:27.240 --> 00:01:35.342
+So draw a box wherever you like
+and now you have your map in
+
+8e00fd69-1b11-4145-8cb3-7b476055b73d-1
+00:01:35.342 --> 00:01:37.600
+your layout page.
+
+40f2b987-9a3b-4964-bb48-b6a89595cc1c-0
+00:01:37.600 --> 00:01:42.189
+You can resize it to how you
+want and also move it around the
+
+40f2b987-9a3b-4964-bb48-b6a89595cc1c-1
+00:01:42.189 --> 00:01:42.560
+page.
+
+fb2696e0-e96f-4675-917a-17dd143b366e-0
+00:01:42.800 --> 00:01:46.225
+But don't worry too much if the
+actual view that you have of
+
+fb2696e0-e96f-4675-917a-17dd143b366e-1
+00:01:46.225 --> 00:01:49.650
+your map isn't in exactly the
+right place, as we're going to
+
+fb2696e0-e96f-4675-917a-17dd143b366e-2
+00:01:49.650 --> 00:01:51.560
+be going over how to change
+this.
+
+d01bb78a-922c-4420-aad9-16ca847cb617-0
+00:01:54.440 --> 00:01:57.765
+And at this point you might have
+noticed that now we're in a
+
+d01bb78a-922c-4420-aad9-16ca847cb617-1
+00:01:57.765 --> 00:02:01.363
+layout view, some of the buttons
+within the main ribbon pane have
+
+d01bb78a-922c-4420-aad9-16ca847cb617-2
+00:02:01.363 --> 00:02:01.799
+changed.
+
+32ffa73f-16cb-4a6d-865d-15c4aef789a8-0
+00:02:02.080 --> 00:02:05.154
+And so we're going to go over
+what new buttons we have and
+
+32ffa73f-16cb-4a6d-865d-15c4aef789a8-1
+00:02:05.154 --> 00:02:06.040
+what they can do.
+
+bfd93457-7b46-4585-8369-edd072edf946-0
+00:02:08.360 --> 00:02:12.053
+So if we clicked back on our
+map, we can see that the buttons
+
+bfd93457-7b46-4585-8369-edd072edf946-1
+00:02:12.053 --> 00:02:13.840
+changed back to how they were.
+
+2f8ef6d9-52af-42c4-a542-1fc6819ca523-0
+00:02:14.440 --> 00:02:18.046
+So we need to be within the
+layout view to access the layout
+
+2f8ef6d9-52af-42c4-a542-1fc6819ca523-1
+00:02:18.046 --> 00:02:18.520
+buttons.
+
+5af066f7-5a62-4ed9-b521-0c2ba2d954cf-0
+00:02:22.120 --> 00:02:26.374
+The first thing we're going to
+take a look at is this layout
+
+5af066f7-5a62-4ed9-b521-0c2ba2d954cf-1
+00:02:26.374 --> 00:02:30.769
+tab that we now have where we
+normally have the map tab and so
+
+5af066f7-5a62-4ed9-b521-0c2ba2d954cf-2
+00:02:30.769 --> 00:02:35.233
+the first new section we can see
+is Navigate and in navigate we
+
+5af066f7-5a62-4ed9-b521-0c2ba2d954cf-3
+00:02:35.233 --> 00:02:39.000
+can use these buttons to move
+around the layout page.
+
+0b06eca8-2671-4eb6-81fb-a27bdbf99ab6-0
+00:02:39.160 --> 00:02:42.966
+So if we clicked on the navigate
+button we can now move our
+
+0b06eca8-2671-4eb6-81fb-a27bdbf99ab6-1
+00:02:42.966 --> 00:02:46.900
+layout page around and the other
+buttons we have here are for
+
+0b06eca8-2671-4eb6-81fb-a27bdbf99ab6-2
+00:02:46.900 --> 00:02:48.360
+different zoom options.
+
+1d8fa80f-1516-4255-96a2-e88f9f37c8ae-0
+00:02:49.040 --> 00:02:53.195
+The next section we have is
+Elements and in elements we have
+
+1d8fa80f-1516-4255-96a2-e88f9f37c8ae-1
+00:02:53.195 --> 00:02:57.011
+select tools to select our map
+frame and also the other
+
+1d8fa80f-1516-4255-96a2-e88f9f37c8ae-2
+00:02:57.011 --> 00:02:59.600
+elements that we add onto our
+layout.
+
+29718cd4-115c-4f48-91ae-a43a42ed3c27-0
+00:03:01.080 --> 00:03:05.447
+in page set up we could change
+our layout page to be portrait
+
+29718cd4-115c-4f48-91ae-a43a42ed3c27-1
+00:03:05.447 --> 00:03:09.673
+or landscape and we also have
+options to change the size of
+
+29718cd4-115c-4f48-91ae-a43a42ed3c27-2
+00:03:09.673 --> 00:03:14.040
+our page and then in show we
+have toggle boxes to turn rulers
+
+29718cd4-115c-4f48-91ae-a43a42ed3c27-3
+00:03:14.040 --> 00:03:15.520
+and guides on or off.
+
+e8ffcbf7-5043-40cf-9f22-bf5cb19a30dd-0
+00:03:16.400 --> 00:03:20.251
+The guides help us align things
+in the layout and the rulers are
+
+e8ffcbf7-5043-40cf-9f22-bf5cb19a30dd-1
+00:03:20.251 --> 00:03:23.688
+the measurements that you can
+see around the sides of the
+
+e8ffcbf7-5043-40cf-9f22-bf5cb19a30dd-2
+00:03:23.688 --> 00:03:24.400
+layout page.
+
+6da174d1-36e4-4247-9acf-d1f68fc1821e-0
+00:03:27.440 --> 00:03:30.892
+The next thing we're going to
+take a look at is activating our
+
+6da174d1-36e4-4247-9acf-d1f68fc1821e-1
+00:03:30.892 --> 00:03:31.440
+map frame.
+
+3b441cd2-8c3f-4640-bdd4-468008aac38e-0
+00:03:32.120 --> 00:03:36.737
+And so what this means is we can
+turn on the map within our map
+
+3b441cd2-8c3f-4640-bdd4-468008aac38e-1
+00:03:36.737 --> 00:03:40.200
+frame and use it as if we were
+in the map view.
+
+f012128b-402f-4060-a719-87a31c14804b-0
+00:03:40.600 --> 00:03:45.396
+So if we click on the activate
+button, we can now move inside
+
+f012128b-402f-4060-a719-87a31c14804b-1
+00:03:45.396 --> 00:03:50.502
+of our map frame and you can see
+that the buttons at the top have
+
+f012128b-402f-4060-a719-87a31c14804b-2
+00:03:50.502 --> 00:03:53.520
+changed as if we're in map view
+again.
+
+e7876cda-c66a-42d3-99c9-4c56c9f1c8fc-0
+00:03:53.960 --> 00:03:57.360
+And so we can also access these
+map buttons.
+
+118b883a-5769-45fe-88ab-5ec20e541a13-0
+00:03:58.640 --> 00:04:03.064
+So move your map to how you want
+and once you're happy with it,
+
+118b883a-5769-45fe-88ab-5ec20e541a13-1
+00:04:03.064 --> 00:04:05.000
+we can close the activation.
+
+f8b19c36-1a6e-4d20-bb08-e52b2ca65432-0
+00:04:05.000 --> 00:04:09.351
+So to do that, we're going to go
+to the Layout button at the top
+
+f8b19c36-1a6e-4d20-bb08-e52b2ca65432-1
+00:04:09.351 --> 00:04:11.360
+and then hit close activation.
+
+dcdb8519-5bbe-4dd3-ac43-dadf8dbe910d-0
+00:04:16.560 --> 00:04:20.093
+And now we've covered most of
+the buttons in the Layout tab,
+
+dcdb8519-5bbe-4dd3-ac43-dadf8dbe910d-1
+00:04:20.093 --> 00:04:23.800
+so we'll go and look at what has
+changed within the Insert tab.
+
+10c4f93b-71ab-457a-ac2e-a3dab2800243-0
+00:04:24.920 --> 00:04:27.860
+The Project section has stayed
+the same, so we don't need to
+
+10c4f93b-71ab-457a-ac2e-a3dab2800243-1
+00:04:27.860 --> 00:04:28.680
+worry about that.
+
+0fc20a69-d9fc-4e83-8230-e9ed0a765026-0
+00:04:29.520 --> 00:04:32.943
+But here we now have a section
+on map frames and this is where
+
+0fc20a69-d9fc-4e83-8230-e9ed0a765026-1
+00:04:32.943 --> 00:04:35.280
+we went to add our map frame in
+initially.
+
+ec2afac2-00ef-4982-94b0-8027397a9906-0
+00:04:37.600 --> 00:04:41.736
+So you could also add a map
+frame of a different shape by
+
+ec2afac2-00ef-4982-94b0-8027397a9906-1
+00:04:41.736 --> 00:04:46.229
+clicking here and by clicking on
+grid we can add grid lines to
+
+ec2afac2-00ef-4982-94b0-8027397a9906-2
+00:04:46.229 --> 00:04:46.800
+our map.
+
+4ea9936b-47bc-4948-a5ab-1b392f5dc179-0
+00:04:47.440 --> 00:04:52.643
+So we're going to choose the
+first one here and now we have
+
+4ea9936b-47bc-4948-a5ab-1b392f5dc179-1
+00:04:52.643 --> 00:04:58.279
+grid lines showing the longitude
+and latitude on our map. In map
+
+4ea9936b-47bc-4948-a5ab-1b392f5dc179-2
+00:04:58.279 --> 00:04:58.799
+frames
+
+4f93016b-e915-4194-937b-a81b612ed11f-0
+00:04:58.800 --> 00:05:01.720
+we've also got a button on map
+series as well.
+
+a7be3d31-3b15-4d5d-bf5c-b2727dd9b119-0
+00:05:03.800 --> 00:05:08.534
+If you wanted to change the grid
+lines that we added and set it
+
+a7be3d31-3b15-4d5d-bf5c-b2727dd9b119-1
+00:05:08.534 --> 00:05:13.120
+to your preferences, then you
+can right click on the grids in
+
+a7be3d31-3b15-4d5d-bf5c-b2727dd9b119-2
+00:05:13.120 --> 00:05:17.336
+your contents pane and then
+click on properties and this
+
+a7be3d31-3b15-4d5d-bf5c-b2727dd9b119-3
+00:05:17.336 --> 00:05:21.331
+will bring up the element pane
+where you can set your
+
+a7be3d31-3b15-4d5d-bf5c-b2727dd9b119-4
+00:05:21.331 --> 00:05:25.400
+preferences for your grid lines.
+Within the Insert tab
+
+dc9648de-4afa-482a-906e-4457037e9901-0
+00:05:25.400 --> 00:05:28.716
+here we also now have map
+surrounds and so this is where
+
+dc9648de-4afa-482a-906e-4457037e9901-1
+00:05:28.716 --> 00:05:31.800
+you can add some really useful
+things onto your map.
+
+2f1d4383-0b7f-4126-877f-892e6e68b530-0
+00:05:32.240 --> 00:05:34.479
+So the first thing we're going
+to take a look at is adding a
+
+2f1d4383-0b7f-4126-877f-892e6e68b530-1
+00:05:34.479 --> 00:05:34.920
+north arrow.
+
+02e93380-af35-4b56-816e-7961305e6617-0
+00:05:35.240 --> 00:05:38.537
+This isn't normally necessary if
+your map is already orientated
+
+02e93380-af35-4b56-816e-7961305e6617-1
+00:05:38.537 --> 00:05:41.680
+north but we're going to take a
+look at how to do it anyway.
+
+93462f6f-9828-4f1c-a72d-4d8d046cd24b-0
+00:05:42.720 --> 00:05:46.660
+So you would click on the button
+and now you can choose which
+
+93462f6f-9828-4f1c-a72d-4d8d046cd24b-1
+00:05:46.660 --> 00:05:48.440
+north arrow you want to add.
+
+a264dc8c-0d3e-4ab3-a6f9-362d43e897aa-0
+00:05:53.850 --> 00:05:58.314
+I'm going to choose this one
+here and then you can draw it on
+
+a264dc8c-0d3e-4ab3-a6f9-362d43e897aa-1
+00:05:58.314 --> 00:06:01.410
+to your map and resize it to how
+you want.
+
+ae5c4219-4d65-4805-80e8-8f83fc77a502-0
+00:06:03.170 --> 00:06:07.200
+And again, just like the grids,
+you can go into your contents
+
+ae5c4219-4d65-4805-80e8-8f83fc77a502-1
+00:06:07.200 --> 00:06:11.230
+pane, right click on the north
+arrow you just added and go on
+
+ae5c4219-4d65-4805-80e8-8f83fc77a502-2
+00:06:11.230 --> 00:06:11.880
+properties
+
+2b184d1d-55c5-404c-b9f2-a2c1a80f3afe-0
+00:06:11.880 --> 00:06:17.424
+if you want to change it to suit
+your preferences more. We're
+
+2b184d1d-55c5-404c-b9f2-a2c1a80f3afe-1
+00:06:17.424 --> 00:06:21.360
+going to take a look at adding a
+scale bar.
+
+e210adf6-4029-4172-8f9c-74e7c3514d58-0
+00:06:21.360 --> 00:06:25.346
+So we click on the scale bar
+button and then we can choose
+
+e210adf6-4029-4172-8f9c-74e7c3514d58-1
+00:06:25.346 --> 00:06:29.739
+which scale we want to add, and
+then we're going to draw it onto
+
+e210adf6-4029-4172-8f9c-74e7c3514d58-2
+00:06:29.739 --> 00:06:30.280
+our map.
+
+b62cf070-5d6e-4840-b665-00e2fec78fea-0
+00:06:32.800 --> 00:06:35.880
+And again, you can resize it or
+move it to where you want.
+
+9ac53bca-9eca-4d8e-aba8-2cd4f7d3e05d-0
+00:06:38.400 --> 00:06:44.818
+You can also right click on your
+scale bar in the contents and go
+
+9ac53bca-9eca-4d8e-aba8-2cd4f7d3e05d-1
+00:06:44.818 --> 00:06:48.320
+to the properties. In map
+surrounds
+
+304a6542-700c-489f-908c-a2b78f3b60f1-0
+00:06:48.320 --> 00:06:53.120
+we can also add a legend, a
+chart frame or a table.
+
+ab5ecad7-03b4-4eab-b596-e3461b07ce1d-0
+00:06:54.360 --> 00:06:58.670
+And then we also have a graphics
+and text section in the Insert
+
+ab5ecad7-03b4-4eab-b596-e3461b07ce1d-1
+00:06:58.670 --> 00:07:02.240
+tab so we can add in graphics
+and text onto our map.
+
+766e43b7-845b-4f6c-b835-2d01ba9f75c3-0
+00:07:03.520 --> 00:07:07.707
+And that's most of the important
+buttons that we now have within
+
+766e43b7-845b-4f6c-b835-2d01ba9f75c3-1
+00:07:07.707 --> 00:07:08.480
+layout view.
+
+640cbc9a-ee5a-4123-9de4-83a75ed7197f-0
+00:07:09.000 --> 00:07:12.430
+An important note just to say
+here, you can access your layout
+
+640cbc9a-ee5a-4123-9de4-83a75ed7197f-1
+00:07:12.430 --> 00:07:13.520
+within your catalog.
+
+091939e8-73bb-4c5e-9fb3-f893d099dc2f-0
+00:07:13.800 --> 00:07:17.012
+This is really useful if you
+accidentally shut your layout in
+
+091939e8-73bb-4c5e-9fb3-f893d099dc2f-1
+00:07:17.012 --> 00:07:20.276
+your project, then you can still
+access it in your catalog and
+
+091939e8-73bb-4c5e-9fb3-f893d099dc2f-2
+00:07:20.276 --> 00:07:21.520
+you can open it back up.
+
+7bc4bf48-c049-4b52-acd3-beddbb4f45eb-0
+00:07:24.520 --> 00:07:27.637
+So now have a go at creating
+your own layout and playing
+
+7bc4bf48-c049-4b52-acd3-beddbb4f45eb-1
+00:07:27.637 --> 00:07:30.863
+around with some of the buttons
+that you have access to in
+
+7bc4bf48-c049-4b52-acd3-beddbb4f45eb-2
+00:07:30.863 --> 00:07:31.520
+layout view.

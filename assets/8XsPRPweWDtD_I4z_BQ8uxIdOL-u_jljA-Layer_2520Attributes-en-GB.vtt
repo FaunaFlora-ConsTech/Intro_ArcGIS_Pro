@@ -1,0 +1,220 @@
+WEBVTT
+
+567299e0-93bf-4675-97ec-f1be36dd252c-0
+00:00:01.770 --> 00:00:05.080
+Now we have our data in our
+project. We're just going to
+
+567299e0-93bf-4675-97ec-f1be36dd252c-1
+00:00:05.080 --> 00:00:08.391
+turn off the two basemaps
+because we don't need them and
+
+567299e0-93bf-4675-97ec-f1be36dd252c-2
+00:00:08.391 --> 00:00:09.960
+they can slow us down a bit
+
+1a371ba4-bdd3-4d7b-a740-ba0f2f81517d-0
+00:00:10.910 --> 00:00:15.028
+and we can see our layers here.
+We can use the arrow next to the
+
+1a371ba4-bdd3-4d7b-a740-ba0f2f81517d-1
+00:00:15.028 --> 00:00:18.704
+layers to either see the
+symbology or close it. Sometimes
+
+1a371ba4-bdd3-4d7b-a740-ba0f2f81517d-2
+00:00:18.704 --> 00:00:22.443
+it's good to close it just so we
+can see all of the layers
+
+1a371ba4-bdd3-4d7b-a740-ba0f2f81517d-3
+00:00:22.443 --> 00:00:22.950
+clearly.
+
+32be4360-a17d-47e2-b19c-f39c6494495a-0
+00:00:23.680 --> 00:00:27.727
+And now we're going to take a
+look at the first layer, which
+
+32be4360-a17d-47e2-b19c-f39c6494495a-1
+00:00:27.727 --> 00:00:31.708
+is the biomonitoring points. So
+this is a vector point data
+
+32be4360-a17d-47e2-b19c-f39c6494495a-2
+00:00:31.708 --> 00:00:32.040
+layer
+
+10e3c5cc-75c2-480f-b1a8-3993550c130e-0
+00:00:34.000 --> 00:00:38.294
+and then looking at the roads
+and tracks, these are vector
+
+10e3c5cc-75c2-480f-b1a8-3993550c130e-1
+00:00:38.294 --> 00:00:38.950
+line data
+
+30f229c7-50b6-4661-9b9d-afcdc82e0896-0
+00:00:40.300 --> 00:00:44.157
+and then the Ziama landscape is
+a vector polygon. And then we
+
+30f229c7-50b6-4661-9b9d-afcdc82e0896-1
+00:00:44.157 --> 00:00:47.765
+have the two rasters at the
+bottom, the landcover and the
+
+30f229c7-50b6-4661-9b9d-afcdc82e0896-2
+00:00:47.765 --> 00:00:51.498
+DEM. And we're going to go over
+those a bit more in another
+
+30f229c7-50b6-4661-9b9d-afcdc82e0896-3
+00:00:51.498 --> 00:00:51.810
+video
+
+eae066a2-0cce-46c6-a989-8ee20e08343b-0
+00:00:53.440 --> 00:00:57.597
+and we're going to be going over
+how to look at the attributes of
+
+eae066a2-0cce-46c6-a989-8ee20e08343b-1
+00:00:57.597 --> 00:00:58.920
+our different layers.
+
+c77a24cb-e2f7-4320-b6e5-f16efee02440-0
+00:00:59.830 --> 00:01:04.263
+So looking at the Biomonitoring
+layer, we can right click on
+
+c77a24cb-e2f7-4320-b6e5-f16efee02440-1
+00:01:04.263 --> 00:01:04.990
+this layer
+
+6291ae7f-9d50-427c-9b55-24c42a548c92-0
+00:01:07.510 --> 00:01:09.790
+and then click Attribute table
+
+5c872916-814c-4da2-8f05-d263448ed7b2-0
+00:01:13.910 --> 00:01:17.103
+and this is going to open up our
+attributes which are the
+
+5c872916-814c-4da2-8f05-d263448ed7b2-1
+00:01:17.103 --> 00:01:20.406
+information attached to our data
+layers. And so this is the
+
+5c872916-814c-4da2-8f05-d263448ed7b2-2
+00:01:20.406 --> 00:01:23.380
+information attached to the
+biomonitoring data layer.
+
+19d11371-d90b-4f73-b324-ca994c25a745-0
+00:01:26.710 --> 00:01:30.528
+And in this table, we can see
+that we've got a row for each
+
+19d11371-d90b-4f73-b324-ca994c25a745-1
+00:01:30.528 --> 00:01:30.910
+point,
+
+a4731d55-ce85-42c7-81cf-7c816b0f50d5-0
+00:01:31.750 --> 00:01:36.470
+and the points are representing
+a location of a species.
+
+3077a31c-5aba-4b20-8b88-304b39d540ae-0
+00:01:38.160 --> 00:01:42.408
+And so the information that we
+have is we've got the date that
+
+3077a31c-5aba-4b20-8b88-304b39d540ae-1
+00:01:42.408 --> 00:01:46.792
+the sighting was located, we've
+got the location in latitude and
+
+3077a31c-5aba-4b20-8b88-304b39d540ae-2
+00:01:46.792 --> 00:01:50.838
+longitude, and this is what's
+allowing the data point to be
+
+3077a31c-5aba-4b20-8b88-304b39d540ae-3
+00:01:50.838 --> 00:01:54.480
+put on the map. We've got the
+species that were cited
+
+0446d490-7dd6-4c0a-8d05-e0b59042e6e5-0
+00:01:56.530 --> 00:02:00.020
+and then we've got the indicator
+of the sighting as well.
+
+62b2963c-5e9c-4bed-acd5-80153ebea6bc-0
+00:02:02.920 --> 00:02:06.683
+What we can do with this
+attribute table is we can use it
+
+62b2963c-5e9c-4bed-acd5-80153ebea6bc-1
+00:02:06.683 --> 00:02:10.900
+to select the data that we want
+and then see it upon our map. To
+
+62b2963c-5e9c-4bed-acd5-80153ebea6bc-2
+00:02:10.900 --> 00:02:15.052
+do this we just need to click on
+the row number on the left and
+
+62b2963c-5e9c-4bed-acd5-80153ebea6bc-3
+00:02:15.052 --> 00:02:19.075
+then this is going to select
+this point or this row and so we
+
+62b2963c-5e9c-4bed-acd5-80153ebea6bc-4
+00:02:19.075 --> 00:02:21.800
+can see the highlighted point on
+our map.
+
+38d564a1-8f6d-4024-a636-fbf1cf6f9752-0
+00:02:22.540 --> 00:02:26.092
+We could also hold the click
+button and drag up or down to
+
+38d564a1-8f6d-4024-a636-fbf1cf6f9752-1
+00:02:26.092 --> 00:02:28.020
+select multiple adjacent points.
+
+3aab4aba-9a49-4951-aaeb-6a26c3519cc8-0
+00:02:29.010 --> 00:02:32.551
+Or we can use the control button
+to select multiple unadjacent
+
+3aab4aba-9a49-4951-aaeb-6a26c3519cc8-1
+00:02:32.551 --> 00:02:35.811
+points just by clicking on a row
+holding control and then
+
+3aab4aba-9a49-4951-aaeb-6a26c3519cc8-2
+00:02:35.811 --> 00:02:38.510
+clicking the other rows that we
+want to select.
+
+397efb13-1228-4827-9729-6f829a1aec24-0
+00:02:49.620 --> 00:02:52.995
+If we want to clear our
+selection, we can click on the
+
+397efb13-1228-4827-9729-6f829a1aec24-1
+00:02:52.995 --> 00:02:54.100
+clear button here,
+
+2bc2de55-d744-4e9b-8a8e-0182d0dd27af-0
+00:02:55.210 --> 00:02:59.150
+or we can also click on the
+white corner of the table
+
+ed60e8bb-bbd5-4d99-8976-9980bbff159f-0
+00:03:00.710 --> 00:03:04.430
+and so that's how to view our
+attributes of our data layers.

@@ -1,0 +1,221 @@
+WEBVTT
+
+aea2f762-9ebe-466a-aad7-52323195df0a-0
+00:00:04.230 --> 00:00:07.645
+When setting up an Arcgis Pro
+project, the first thing you
+
+aea2f762-9ebe-466a-aad7-52323195df0a-1
+00:00:07.645 --> 00:00:11.293
+want to do is set up a folder
+for your materials. That's going
+
+aea2f762-9ebe-466a-aad7-52323195df0a-2
+00:00:11.293 --> 00:00:13.030
+to be easy to access and find.
+
+413bb187-e3bd-4008-9859-30b154648674-0
+00:00:13.660 --> 00:00:16.904
+You should do this even if you
+don't have your materials yet,
+
+413bb187-e3bd-4008-9859-30b154648674-1
+00:00:16.904 --> 00:00:19.939
+as it's going to give you a
+place to store them. For this
+
+413bb187-e3bd-4008-9859-30b154648674-2
+00:00:19.939 --> 00:00:23.288
+tutorial though, you should have
+hopefully have downloaded this
+
+413bb187-e3bd-4008-9859-30b154648674-3
+00:00:23.288 --> 00:00:26.428
+folder that contains all the
+materials that you're going to
+
+413bb187-e3bd-4008-9859-30b154648674-4
+00:00:26.428 --> 00:00:29.149
+need for this course. If you
+don't have this folder
+
+413bb187-e3bd-4008-9859-30b154648674-5
+00:00:29.149 --> 00:00:32.499
+downloaded then just exit this
+video, scroll back up the lesson
+
+413bb187-e3bd-4008-9859-30b154648674-6
+00:00:32.499 --> 00:00:35.743
+and you should find the button
+that you need to download this
+
+413bb187-e3bd-4008-9859-30b154648674-7
+00:00:35.743 --> 00:00:36.109
+folder.
+
+533422cd-8238-4536-88c3-20743bf561f1-0
+00:00:37.620 --> 00:00:41.012
+So hopefully you've got it
+downloaded and it's in your
+
+533422cd-8238-4536-88c3-20743bf561f1-1
+00:00:41.012 --> 00:00:44.898
+downloads here. If it's not in
+Downloads, then just find where
+
+533422cd-8238-4536-88c3-20743bf561f1-2
+00:00:44.898 --> 00:00:46.440
+it is and navigate to it.
+
+2909c91f-f1e2-445c-bc58-c746f6e2e5f3-0
+00:00:47.900 --> 00:00:51.343
+And what we're going to do now
+is create our folder to put the
+
+2909c91f-f1e2-445c-bc58-c746f6e2e5f3-1
+00:00:51.343 --> 00:00:54.350
+materials that are within this
+compressed folder into.
+
+965d02f2-fa79-4667-ad23-d8658f7a635e-0
+00:00:55.160 --> 00:00:57.270
+So I'm going to go onto my
+OneDrive
+
+cba2494a-51f3-47a1-9d20-7cca9ee5a5aa-0
+00:00:58.920 --> 00:01:02.177
+and my Documents and then I'm
+going to create a new folder. So
+
+cba2494a-51f3-47a1-9d20-7cca9ee5a5aa-1
+00:01:02.177 --> 00:01:03.470
+I'm going to right click,
+
+7477b116-3c24-498e-8ff0-da9df8e23e22-0
+00:01:04.390 --> 00:01:05.620
+go down to new
+
+f7baf8e4-fd06-4ec6-a29e-4380d0b96da4-0
+00:01:06.810 --> 00:01:07.880
+click folder
+
+f4c32812-486b-477e-8fed-7f46f80e8fb6-0
+00:01:08.750 --> 00:01:11.400
+and name it Intro
+
+c36da56c-d284-4a9f-b2d8-12d4563f40cc-0
+00:01:12.360 --> 00:01:14.530
+Arc GIS Pro
+
+5f901020-a478-458c-8055-c416a4a8cd4d-0
+00:01:17.310 --> 00:01:19.190
+and then I'm going to go into
+this folder.
+
+4c151e50-3d2e-41ab-be50-dff5fdbc5848-0
+00:01:20.960 --> 00:01:22.920
+So now we can drag across
+
+ac94cd98-7b99-460b-abe9-b5c804d12577-0
+00:01:24.310 --> 00:01:27.260
+the folder that we downloaded
+into our new folder
+
+042aaca1-c5b8-4a5f-b524-633ed40fa656-0
+00:01:28.180 --> 00:01:31.473
+and we're going to unzip it to
+be able to access all the
+
+042aaca1-c5b8-4a5f-b524-633ed40fa656-1
+00:01:31.473 --> 00:01:34.940
+materials that are inside it. So
+we're going to right click
+
+8df54577-f179-4415-9a84-61f36ab4aca8-0
+00:01:35.880 --> 00:01:38.000
+and we're going to go and
+extract all
+
+d89e5613-0ffc-4126-a3f1-8636377ea47c-0
+00:01:39.930 --> 00:01:43.938
+and then when you have this pop
+up come up you can just delete
+
+d89e5613-0ffc-4126-a3f1-8636377ea47c-1
+00:01:43.938 --> 00:01:46.610
+the part that has the name of
+the folder.
+
+f4445e96-3b61-40dc-aacf-da2f83935ddf-0
+00:01:47.420 --> 00:01:50.669
+Otherwise, this just creates
+another folder that you don't
+
+f4445e96-3b61-40dc-aacf-da2f83935ddf-1
+00:01:50.669 --> 00:01:50.890
+need
+
+d41805f1-b7e7-457d-b0ff-207249087328-0
+00:01:53.040 --> 00:01:54.480
+and click extract.
+
+f6a6f5af-c7b0-4a76-a7ed-6893d6a2b13a-0
+00:02:03.460 --> 00:02:06.900
+OK, so we've got our extracted
+folder here and if we go into it
+
+a7835c6f-65c5-4581-81f7-53800a8a2da5-0
+00:02:08.570 --> 00:02:12.550
+we can see all of our materials
+here
+
+f7aefaf7-f262-464a-b6fc-d91ce023a9ba-0
+00:02:14.950 --> 00:02:18.166
+and then we just go back out.
+What we can do now is delete the
+
+f7aefaf7-f262-464a-b6fc-d91ce023a9ba-1
+00:02:18.166 --> 00:02:18.830
+other folder,
+
+331fb7b9-ad3d-4fb0-b70c-c15dcaac6076-0
+00:02:21.060 --> 00:02:22.800
+the compressed one.
+
+905164da-0cb0-4538-b3ed-22562c580187-0
+00:02:25.100 --> 00:02:28.974
+And what's really important is
+to rename your folders so that
+
+905164da-0cb0-4538-b3ed-22562c580187-1
+00:02:28.974 --> 00:02:32.598
+they're really clear and you
+know what's in them. So this
+
+905164da-0cb0-4538-b3ed-22562c580187-2
+00:02:32.598 --> 00:02:35.909
+isn't very clear at the moment.
+So let's rename this
+
+5737fa8e-f8a6-4551-8122-042959c4046a-0
+00:02:38.390 --> 00:02:40.200
+and name it Materials.
+
+94594c63-9349-4427-b9eb-aa5ab213407c-0
+00:02:43.410 --> 00:02:46.754
+So now if we go back into our
+documents, we can see we can
+
+94594c63-9349-4427-b9eb-aa5ab213407c-1
+00:02:46.754 --> 00:02:50.440
+click on Intro to Arcgis Pro and
+then we have our materials here
+
+f9a5c67d-8888-4bc3-b7c3-0521d67a87ea-0
+00:02:52.090 --> 00:02:54.058
+that all the materials that
+we're going to need for this
+
+f9a5c67d-8888-4bc3-b7c3-0521d67a87ea-1
+00:02:54.058 --> 00:02:54.300
+course.

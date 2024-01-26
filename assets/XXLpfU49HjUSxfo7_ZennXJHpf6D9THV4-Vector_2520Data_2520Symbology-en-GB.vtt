@@ -1,0 +1,229 @@
+WEBVTT
+
+59a88a99-8b15-4c80-a54f-611bc76bae92-0
+00:00:02.120 --> 00:00:07.491
+Now we've looked at how to see
+our data layer attributes and
+
+59a88a99-8b15-4c80-a54f-611bc76bae92-1
+00:00:07.491 --> 00:00:08.460
+properties,
+
+2eca8ba3-4573-4e7d-9eb7-cae71cd4d16c-0
+00:00:09.190 --> 00:00:12.620
+and we've also hopefully changed
+the names of our layers so
+
+2eca8ba3-4573-4e7d-9eb7-cae71cd4d16c-1
+00:00:12.620 --> 00:00:15.821
+they're nice and clear what
+they're representing. We're
+
+2eca8ba3-4573-4e7d-9eb7-cae71cd4d16c-2
+00:00:15.821 --> 00:00:19.079
+going to take a look at the
+symbology of our vector data
+
+2eca8ba3-4573-4e7d-9eb7-cae71cd4d16c-3
+00:00:19.079 --> 00:00:19.480
+layers.
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-0
+00:00:22.310 --> 00:00:25.768
+So we're going to turn off our
+two raster layers because we
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-1
+00:00:25.768 --> 00:00:29.054
+won't need them in this video
+and just look at the three
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-2
+00:00:29.054 --> 00:00:32.629
+vector data layers that we have
+at the top. So, we've got the
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-3
+00:00:32.629 --> 00:00:36.376
+biomonitoring points, the roads
+and the polygon representing the
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-4
+00:00:36.376 --> 00:00:39.719
+Ziama protected area and we're
+going to be looking at the
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-5
+00:00:39.719 --> 00:00:42.890
+symbology of this Ziama
+protected area polygon in this
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-6
+00:00:42.890 --> 00:00:46.291
+video. So at the moment we can
+see that we've got a yellow
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-7
+00:00:46.291 --> 00:00:49.692
+polygon to represent this, but
+we're going to have a go at
+
+5d9f9eda-3a95-4228-b129-9b1cb5dd85b9-8
+00:00:49.692 --> 00:00:50.499
+changing this.
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-0
+00:00:53.170 --> 00:00:56.693
+There's a couple ways to change
+the symbology. For this method,
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-1
+00:00:56.693 --> 00:00:59.776
+we're going to right click on
+the layer and then choose
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-2
+00:00:59.776 --> 00:01:03.079
+symbology and then this will
+bring up the primary symbology
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-3
+00:01:03.079 --> 00:01:06.547
+pane. So, within this pane we've
+got an option here underneath
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-4
+00:01:06.547 --> 00:01:09.740
+with the drop down box to choose
+what we actually want to
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-5
+00:01:09.740 --> 00:01:13.263
+represent the data layer. And so
+at the moment we have a single
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-6
+00:01:13.263 --> 00:01:16.787
+symbol and actually this is the
+best thing for representing the
+
+4f840c21-e52a-4a7b-b246-0c0f75c63e7d-7
+00:01:16.787 --> 00:01:19.760
+protected area. So we're going
+to keep this how it is
+
+24b2ffe0-cf8b-48a7-8805-1a4c7f2991d8-0
+00:01:20.530 --> 00:01:24.311
+and then to change what the
+symbol looks like we can either
+
+24b2ffe0-cf8b-48a7-8805-1a4c7f2991d8-1
+00:01:24.311 --> 00:01:27.210
+click on the box next to where
+it says Symbol
+
+ca857480-3a86-480b-add3-9e64cea56d73-0
+00:01:30.190 --> 00:01:33.786
+and this will bring up the
+Format Polygon symbol pane, or
+
+ca857480-3a86-480b-add3-9e64cea56d73-1
+00:01:33.786 --> 00:01:37.320
+we can also click on the symbol
+within our contents pane
+
+ed01aeb5-4d7b-49f8-aa33-f3470faef00b-0
+00:01:38.020 --> 00:01:39.730
+and that will bring up the same
+pane.
+
+80bf4bf2-9ea2-4d19-b1c9-1bd49b1b725e-0
+00:01:44.410 --> 00:01:47.516
+And we're going to first of all
+look at Gallery within this
+
+80bf4bf2-9ea2-4d19-b1c9-1bd49b1b725e-1
+00:01:47.516 --> 00:01:48.500
+format polygon pane
+
+e86f7009-b719-4a06-95d0-f1aa3819bbda-0
+00:01:49.400 --> 00:01:53.684
+and within Gallery we have a lot
+of pre-made symbols that we can
+
+e86f7009-b719-4a06-95d0-f1aa3819bbda-1
+00:01:53.684 --> 00:01:57.837
+just click and choose. And so
+we're going to choose the second
+
+e86f7009-b719-4a06-95d0-f1aa3819bbda-2
+00:01:57.837 --> 00:02:01.991
+option here the black outline.
+And if we click on this, we can
+
+e86f7009-b719-4a06-95d0-f1aa3819bbda-3
+00:02:01.991 --> 00:02:06.210
+see that it changes the symbol
+representing the protected area.
+
+47117ea1-9e33-479c-a69a-8fa422bfb466-0
+00:02:07.360 --> 00:02:10.975
+If we wanted to change this
+further though, we could also go
+
+47117ea1-9e33-479c-a69a-8fa422bfb466-1
+00:02:10.975 --> 00:02:13.110
+into the properties next to
+Gallery
+
+c40a708e-f233-41f4-a2f2-7bfeb61f6c60-0
+00:02:17.580 --> 00:02:21.028
+and in this section we can
+choose exactly how we want our
+
+c40a708e-f233-41f4-a2f2-7bfeb61f6c60-1
+00:02:21.028 --> 00:02:24.834
+symbol to look. So for example,
+we can change the colour of the
+
+c40a708e-f233-41f4-a2f2-7bfeb61f6c60-2
+00:02:24.834 --> 00:02:25.310
+polygon,
+
+a010de10-1b2f-41ec-989a-c89572517387-0
+00:02:26.720 --> 00:02:30.599
+we can change the outline
+colour, and we can also change
+
+a010de10-1b2f-41ec-989a-c89572517387-1
+00:02:30.599 --> 00:02:34.342
+the outline width, and we're
+going to change this to 1
+
+a010de10-1b2f-41ec-989a-c89572517387-2
+00:02:34.342 --> 00:02:38.697
+instead. And whenever you change
+these, you need to remember to
+
+a010de10-1b2f-41ec-989a-c89572517387-3
+00:02:38.697 --> 00:02:41.759
+click apply to actually apply
+these changes.
+
+ef130039-bb8c-4764-9484-de72a9531d2c-0
+00:02:43.950 --> 00:02:47.591
+And here we go. We can see that
+the outline of our symbol is now
+
+ef130039-bb8c-4764-9484-de72a9531d2c-1
+00:02:47.591 --> 00:02:50.617
+a thinner black line, and so
+that's how to change the
+
+ef130039-bb8c-4764-9484-de72a9531d2c-2
+00:02:50.617 --> 00:02:52.690
+symbology of our vector data
+layers.
+
+38553c59-0a4a-4e98-82e6-80a924103b36-0
+00:02:53.340 --> 00:02:59.840

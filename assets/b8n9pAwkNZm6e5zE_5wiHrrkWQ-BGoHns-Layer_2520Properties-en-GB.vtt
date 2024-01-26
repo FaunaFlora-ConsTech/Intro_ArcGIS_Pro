@@ -1,0 +1,263 @@
+WEBVTT
+
+1e685b8a-9f22-40fb-a989-f97af48cf217-0
+00:00:01.960 --> 00:00:05.657
+So now we know how to take a
+look at the attributes of our
+
+1e685b8a-9f22-40fb-a989-f97af48cf217-1
+00:00:05.657 --> 00:00:09.668
+data layers. Let's take a look
+at the properties and to do this
+
+1e685b8a-9f22-40fb-a989-f97af48cf217-2
+00:00:09.668 --> 00:00:13.178
+we're going to click on the
+layer of our choosing, then
+
+1e685b8a-9f22-40fb-a989-f97af48cf217-3
+00:00:13.178 --> 00:00:15.560
+right click and go down to
+properties
+
+b5c3dd62-afd1-454c-b1e6-328cc6507af9-0
+00:00:16.530 --> 00:00:19.616
+and here it brings up this pop
+up box with all the different
+
+b5c3dd62-afd1-454c-b1e6-328cc6507af9-1
+00:00:19.616 --> 00:00:22.855
+properties that we can look at.
+So we have all the tabs here on
+
+b5c3dd62-afd1-454c-b1e6-328cc6507af9-2
+00:00:22.855 --> 00:00:23.259
+the left
+
+71ed55d4-6191-4b4c-ab34-d1ff36855e6d-0
+00:00:24.270 --> 00:00:27.743
+and looking in general to start
+with, this is where you could
+
+71ed55d4-6191-4b4c-ab34-d1ff36855e6d-1
+00:00:27.743 --> 00:00:29.760
+change the name of your data
+layer.
+
+e6bb46fc-a1b0-417f-bd28-bd7d26793cc1-0
+00:00:30.430 --> 00:00:33.440
+You could also do this though by
+shutting this box
+
+6c49ed94-c07a-4406-a1ed-a0a62c0b6e6c-0
+00:00:34.440 --> 00:00:37.680
+and then clicking once on a
+selected data layer
+
+64071a6e-5f36-420e-b621-b1b446624e26-0
+00:00:38.430 --> 00:00:43.110
+and then you can change the name
+in here. So we're going to name
+
+64071a6e-5f36-420e-b621-b1b446624e26-1
+00:00:43.110 --> 00:00:45.270
+this one Biomonitoring points.
+
+2a05e770-7341-4133-a2ba-93b58d44d9fd-0
+00:00:48.790 --> 00:00:51.646
+It's good practise to rename
+your data layers to make them
+
+2a05e770-7341-4133-a2ba-93b58d44d9fd-1
+00:00:51.646 --> 00:00:53.970
+easy to read and know what
+you're working with.
+
+398c9dd8-cbac-4591-9a22-05fe31106709-0
+00:00:56.210 --> 00:00:59.071
+We'll go back into the
+properties now by right clicking
+
+398c9dd8-cbac-4591-9a22-05fe31106709-1
+00:00:59.071 --> 00:01:00.860
+and going back down to
+properties.
+
+d145f15e-ddb4-45a5-be9b-becd34e2b96b-0
+00:01:02.710 --> 00:01:06.785
+And now we'll take a look at the
+metadata of this data layer by
+
+d145f15e-ddb4-45a5-be9b-becd34e2b96b-1
+00:01:06.785 --> 00:01:08.760
+choosing the Metadata tab here.
+
+9af1c47f-ad77-4668-9e7f-1da858c923d0-0
+00:01:10.820 --> 00:01:14.229
+And if we scroll down, we can
+see that this data layer doesn't
+
+9af1c47f-ad77-4668-9e7f-1da858c923d0-1
+00:01:14.229 --> 00:01:15.420
+have any metadata yet.
+
+46065b6f-3b81-481e-952e-b941febe19d1-0
+00:01:16.850 --> 00:01:20.600
+If we wanted to add metadata
+though, we can go into this box
+
+46065b6f-3b81-481e-952e-b941febe19d1-1
+00:01:20.600 --> 00:01:24.473
+at the top and click on the drop
+down arrow. Now we can choose
+
+46065b6f-3b81-481e-952e-b941febe19d1-2
+00:01:24.473 --> 00:01:27.240
+the top option 'layer has its
+own metadata'.
+
+af452a2e-bb64-4fee-a716-2f802a1b2567-0
+00:01:30.040 --> 00:01:33.300
+It's really important to add
+metadata to your data layers if
+
+af452a2e-bb64-4fee-a716-2f802a1b2567-1
+00:01:33.300 --> 00:01:36.721
+you're going to be sharing them.
+This way, the person or people
+
+af452a2e-bb64-4fee-a716-2f802a1b2567-2
+00:01:36.721 --> 00:01:40.089
+that you share the data layer
+with is going to be able to know
+
+af452a2e-bb64-4fee-a716-2f802a1b2567-3
+00:01:40.089 --> 00:01:43.456
+what the data is representing.
+So here we're going to add some
+
+af452a2e-bb64-4fee-a716-2f802a1b2567-4
+00:01:43.456 --> 00:01:46.877
+metadata. We've added a title of
+'Biomonitoring Points' and now
+
+af452a2e-bb64-4fee-a716-2f802a1b2567-5
+00:01:46.877 --> 00:01:49.390
+we're going to add a summary of
+our data layer
+
+ae5492a8-d2b2-4cd8-a746-5c4697e4a99d-0
+00:02:05.630 --> 00:02:07.410
+and we'll also add a
+description.
+
+67f00ae8-b3c7-46af-950f-1fbeccb45330-0
+00:02:15.060 --> 00:02:19.991
+And then in credits we can write
+in who has collected or created
+
+67f00ae8-b3c7-46af-950f-1fbeccb45330-1
+00:02:19.991 --> 00:02:21.130
+the data layer.
+
+ffe72812-258e-4514-9695-06ce9c86abd6-0
+00:02:21.900 --> 00:02:25.584
+And in use limitations, we can
+add any limitations that we have
+
+ffe72812-258e-4514-9695-06ce9c86abd6-1
+00:02:25.584 --> 00:02:29.211
+in our data set. So for example,
+we could write that this data
+
+ffe72812-258e-4514-9695-06ce9c86abd6-2
+00:02:29.211 --> 00:02:32.896
+was collected in the wet season
+and so they don't represent the
+
+ffe72812-258e-4514-9695-06ce9c86abd6-3
+00:02:32.896 --> 00:02:33.530
+dry season.
+
+9635a1cd-45ec-4723-b6e3-6740cfdeb3af-0
+00:02:37.910 --> 00:02:40.722
+So now if we were to send this
+data layer to someone and they
+
+9635a1cd-45ec-4723-b6e3-6740cfdeb3af-1
+00:02:40.722 --> 00:02:43.308
+don't know what the points
+represent, they can go in and
+
+9635a1cd-45ec-4723-b6e3-6740cfdeb3af-2
+00:02:43.308 --> 00:02:45.350
+check the metadata and get this
+information.
+
+8b35d941-b4ad-4495-b660-45a6b401962f-0
+00:02:49.090 --> 00:02:53.139
+Another thing that we can look
+out within our layer properties
+
+8b35d941-b4ad-4495-b660-45a6b401962f-1
+00:02:53.139 --> 00:02:56.866
+is what coordinate system our
+data layer was collected or
+
+8b35d941-b4ad-4495-b660-45a6b401962f-2
+00:02:56.866 --> 00:03:00.851
+created in. To do this we want
+to click on Source on the left
+
+8b35d941-b4ad-4495-b660-45a6b401962f-3
+00:03:00.851 --> 00:03:01.430
+hand side
+
+40588535-3964-4485-9c05-63b1f8b91fe3-0
+00:03:02.870 --> 00:03:05.220
+and then click on Spatial
+Reference
+
+19aa3fd8-c517-4746-82a9-946249136bc2-0
+00:03:07.780 --> 00:03:12.010
+and here we can see that our
+data was collected in the
+
+19aa3fd8-c517-4746-82a9-946249136bc2-1
+00:03:12.010 --> 00:03:15.010
+Geographic Coordinate system WGS
+1984.
+
+2d7d4355-aeb1-4189-ab28-4533ec4b4185-0
+00:03:16.800 --> 00:03:20.105
+Knowing this information is
+really important. As we can see
+
+2d7d4355-aeb1-4189-ab28-4533ec4b4185-1
+00:03:20.105 --> 00:03:23.190
+this is in a geographic
+coordinate system, and so if we
+
+2d7d4355-aeb1-4189-ab28-4533ec4b4185-2
+00:03:23.190 --> 00:03:26.331
+wanted to use it on our map
+accurately and for analysis,
+
+2d7d4355-aeb1-4189-ab28-4533ec4b4185-3
+00:03:26.331 --> 00:03:28.700
+then we'd need to project this
+data layer.
+
+26802a96-275d-47e9-a6fe-c608e73ad13e-0
+00:03:32.470 --> 00:03:35.300
+And so that's how to look at the
+properties of the layers and
+
+26802a96-275d-47e9-a6fe-c608e73ad13e-1
+00:03:35.300 --> 00:03:37.947
+some of the useful things that
+you can look at within the
+
+26802a96-275d-47e9-a6fe-c608e73ad13e-2
+00:03:37.947 --> 00:03:38.450
+properties.

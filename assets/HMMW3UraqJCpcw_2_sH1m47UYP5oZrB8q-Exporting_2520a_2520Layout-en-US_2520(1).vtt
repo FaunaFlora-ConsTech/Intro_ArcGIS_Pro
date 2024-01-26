@@ -1,0 +1,191 @@
+WEBVTT
+
+f0597f0e-1975-4453-85e5-a5c15a8bd593-0
+00:00:01.800 --> 00:00:05.701
+So now we've created our layout
+and we've added some elements
+
+f0597f0e-1975-4453-85e5-a5c15a8bd593-1
+00:00:05.701 --> 00:00:06.520
+onto our map.
+
+221b6b10-31a9-4853-aba0-63da3d17c448-0
+00:00:06.960 --> 00:00:09.920
+We're going to go ahead and
+export our map.
+
+26b238ae-b3eb-414b-9be4-2103e5f6f114-0
+00:00:10.160 --> 00:00:17.283
+And so to do this we want to
+click on the Share tab in the
+
+26b238ae-b3eb-414b-9be4-2103e5f6f114-1
+00:00:17.283 --> 00:00:23.200
+main ribbon and then we're
+exporting our layout.
+
+d8c1bad5-815c-4526-8dd8-bc84268f0b9d-0
+00:00:23.200 --> 00:00:26.488
+And so we want to click on
+Export Layout and just click on
+
+d8c1bad5-815c-4526-8dd8-bc84268f0b9d-1
+00:00:26.488 --> 00:00:28.160
+the button, not the drop down.
+
+4132b44e-9097-4ce8-802b-beb81b25d4de-0
+00:00:28.400 --> 00:00:30.760
+And here we get the Export
+layout pane come up.
+
+0408fe09-68d5-4855-a96e-f4106d0bee14-0
+00:00:31.240 --> 00:00:33.720
+So we're just going to shut the
+catalog pane because we don't
+
+0408fe09-68d5-4855-a96e-f4106d0bee14-1
+00:00:33.720 --> 00:00:34.440
+need that anymore.
+
+6fa08f0b-279c-4a64-adfb-83e2e47c0649-0
+00:00:34.880 --> 00:00:38.307
+And we'll go over the different
+things that are in this export
+
+6fa08f0b-279c-4a64-adfb-83e2e47c0649-1
+00:00:38.307 --> 00:00:38.960
+layout pane.
+
+aa24fa6c-e8f7-4aa1-9262-de974879b2b0-0
+00:00:40.640 --> 00:00:44.842
+So the first thing we have is
+the file type so we can choose
+
+aa24fa6c-e8f7-4aa1-9262-de974879b2b0-1
+00:00:44.842 --> 00:00:46.840
+what we want to export it as.
+
+3707d84e-dc15-4ffe-a993-01c9b589ebcf-0
+00:00:47.720 --> 00:00:51.710
+I'm going to keep it as a jpg
+but you could export it as a PDF
+
+3707d84e-dc15-4ffe-a993-01c9b589ebcf-1
+00:00:51.710 --> 00:00:53.040
+or a PNG for example.
+
+7fa807dc-8520-46e5-a269-5271ba0f05c6-0
+00:00:53.960 --> 00:00:58.509
+And then the next section we
+have is where we're going to
+
+7fa807dc-8520-46e5-a269-5271ba0f05c6-1
+00:00:58.509 --> 00:01:03.530
+export it to and so by clicking
+on the folder button we can now
+
+7fa807dc-8520-46e5-a269-5271ba0f05c6-2
+00:01:03.530 --> 00:01:08.080
+navigate to our materials folder
+to export it into there.
+
+b71f48fc-599b-4368-9a4a-87ff876efaf2-0
+00:01:13.300 --> 00:01:17.199
+The next button that we have
+here is clip to graphics extent
+
+b71f48fc-599b-4368-9a4a-87ff876efaf2-1
+00:01:17.199 --> 00:01:21.227
+and what this does is it will
+remove all the unnecessary white
+
+b71f48fc-599b-4368-9a4a-87ff876efaf2-2
+00:01:21.227 --> 00:01:24.680
+background that's around our map
+and our grid labels.
+
+62066dcb-c9a1-44cc-9796-70154373dfd3-0
+00:01:25.000 --> 00:01:30.504
+And so we're going to click this
+to on and the next thing we have
+
+62066dcb-c9a1-44cc-9796-70154373dfd3-1
+00:01:30.504 --> 00:01:33.840
+is compression and also the
+resolution.
+
+4dc0458e-bbd5-4cc2-8200-da84b80d2100-0
+00:01:34.280 --> 00:01:36.788
+At the moment these are in
+pretty good places so we're
+
+4dc0458e-bbd5-4cc2-8200-da84b80d2100-1
+00:01:36.788 --> 00:01:38.840
+going to leave them how they
+are. Resolution
+
+5e5043ac-a8f2-4826-90c7-d1e2b78a4581-0
+00:01:38.840 --> 00:01:43.950
+you normally want to choose
+between 200 to 300. In JPEG
+
+5e5043ac-a8f2-4826-90c7-d1e2b78a4581-1
+00:01:43.950 --> 00:01:44.680
+settings
+
+f78a232c-196c-4dd6-acf9-daecde74b4b2-0
+00:01:44.680 --> 00:01:49.592
+here we can also change the
+colour depth to be normal colour
+
+f78a232c-196c-4dd6-acf9-daecde74b4b2-1
+00:01:49.592 --> 00:01:50.640
+or grayscale.
+
+cb3892fc-2860-4f90-b275-f43cb0464851-0
+00:01:50.760 --> 00:01:54.425
+We're going to keep it as colour
+and we don't need to worry about
+
+cb3892fc-2860-4f90-b275-f43cb0464851-1
+00:01:54.425 --> 00:01:56.480
+this colour management section
+here.
+
+62e7896c-4fa1-4c7f-b0ec-9e93131bfd81-0
+00:01:57.400 --> 00:02:01.180
+So now we can click export and
+this is going to export our map
+
+62e7896c-4fa1-4c7f-b0ec-9e93131bfd81-1
+00:02:01.180 --> 00:02:04.120
+to the materials folder where we
+chose it to go.
+
+63c5dc9f-a804-4f97-ac18-b0042363d1d8-0
+00:02:07.160 --> 00:02:08.080
+And now it's done.
+
+1485e766-3372-46e1-80f7-07b6640bc365-0
+00:02:08.080 --> 00:02:11.480
+So we can view our exported file
+and there we go.
+
+1a5a252e-88fd-42f8-805c-9a1c00a957ba-0
+00:02:11.480 --> 00:02:16.020
+There's our JPEG of our exported
+map, our exported layout, and we
+
+1a5a252e-88fd-42f8-805c-9a1c00a957ba-1
+00:02:16.020 --> 00:02:20.080
+can see that it's clipped out
+the unnecessary white space.
+
+2cab9a18-1ec0-46e2-8431-08b95456d8a6-0
+00:02:20.520 --> 00:02:21.520
+And there you go.
+
+aa73684b-9f33-4c89-8948-f61ffe14f7e9-0
+00:02:21.520 --> 00:02:24.680
+That's how you export a layout
+in ArcGIS Pro.

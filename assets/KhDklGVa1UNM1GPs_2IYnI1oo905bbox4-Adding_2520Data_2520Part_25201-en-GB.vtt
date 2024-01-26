@@ -1,0 +1,104 @@
+WEBVTT
+
+bd33ad67-c5a5-4abc-8ad9-82b2c6782d3a-0
+00:00:01.520 --> 00:00:04.891
+We have set up our project and
+now we're going to add some data
+
+bd33ad67-c5a5-4abc-8ad9-82b2c6782d3a-1
+00:00:04.891 --> 00:00:08.316
+into it. There are a few ways we
+could do this and in this video
+
+bd33ad67-c5a5-4abc-8ad9-82b2c6782d3a-2
+00:00:08.316 --> 00:00:11.477
+we're going to show you the
+first way and that's to go into
+
+bd33ad67-c5a5-4abc-8ad9-82b2c6782d3a-3
+00:00:11.477 --> 00:00:12.110
+the Map tab,
+
+afe04adc-ca2e-440d-8d34-2bf75bd0b96d-0
+00:00:13.490 --> 00:00:15.320
+then into the Layer section
+
+605f3852-5b24-4c16-b173-3dc2cb8453d7-0
+00:00:16.670 --> 00:00:20.262
+and now we can click on the Add
+Data dropdown box and this is
+
+605f3852-5b24-4c16-b173-3dc2cb8453d7-1
+00:00:20.262 --> 00:00:23.564
+going to give us a lot of
+options for adding in data. We
+
+605f3852-5b24-4c16-b173-3dc2cb8453d7-2
+00:00:23.564 --> 00:00:27.214
+just want to choose the first
+option here which is add data to
+
+605f3852-5b24-4c16-b173-3dc2cb8453d7-3
+00:00:27.214 --> 00:00:27.620
+the map
+
+aae5704d-1dc5-4c0b-a005-9c5d5a7b90ab-0
+00:00:29.150 --> 00:00:32.477
+and now we need to find the
+folder where we saved our
+
+aae5704d-1dc5-4c0b-a005-9c5d5a7b90ab-1
+00:00:32.477 --> 00:00:36.112
+materials and so here is intro
+Arcgis Pro. So I'm going to
+
+aae5704d-1dc5-4c0b-a005-9c5d5a7b90ab-2
+00:00:36.112 --> 00:00:39.994
+click on this and here are the
+materials. And so if we go into
+
+aae5704d-1dc5-4c0b-a005-9c5d5a7b90ab-3
+00:00:39.994 --> 00:00:40.980
+this folder here
+
+26fe1c13-6540-49fb-ae01-10a12b95228e-0
+00:00:41.820 --> 00:00:44.927
+we can see now all the data
+layers that are within this
+
+26fe1c13-6540-49fb-ae01-10a12b95228e-1
+00:00:44.927 --> 00:00:45.260
+folder
+
+50fa8048-0ce8-4641-b438-dca77aceec3b-0
+00:00:46.210 --> 00:00:51.213
+and we want to choose the Ziama
+landscape shape file. So find
+
+50fa8048-0ce8-4641-b438-dca77aceec3b-1
+00:00:51.213 --> 00:00:51.940
+this file
+
+79e215a2-9c2a-485c-9804-2f5208baa1fa-0
+00:00:52.870 --> 00:00:54.920
+and double click on it to load
+it up.
+
+567cbd14-a13e-43db-8007-13d3d0891e34-0
+00:01:01.460 --> 00:01:04.934
+And now we've added in that data
+layer. ArcGIS Pro has
+
+567cbd14-a13e-43db-8007-13d3d0891e34-1
+00:01:04.934 --> 00:01:08.535
+automatically zoomed in on it
+and so we can see the full
+
+567cbd14-a13e-43db-8007-13d3d0891e34-2
+00:01:08.535 --> 00:01:12.262
+extent of that data layer and
+that is the first method for
+
+567cbd14-a13e-43db-8007-13d3d0891e34-3
+00:01:12.262 --> 00:01:13.210
+adding data in.
